@@ -7,8 +7,9 @@
 h1 {
 	text-align: center;
 	color: #a4287b;
-	margin-top: 30px;
-	margin-bottom: 30px;
+	margin-top: 50px;
+	
+	margin-bottom: 20px;
 	font-size: 175%;
 }
 .row {
@@ -24,8 +25,8 @@ h1 {
 		width: 30%;
 	}
 	.col-lg-4 {
-		margin: 1.66%;
-		margin-top: 5%;
+		margin-left: 1.66%;
+		margin-right: 1.66%;
 	}
 	#section3 {
 		margin-left: 0%;
@@ -41,7 +42,7 @@ h1 {
 	}
 	.col-md-6 {
 		width: 49%;
-		margin-top: 5%;
+		
 		
 	}
 	#section3 {
@@ -66,15 +67,16 @@ h1 {
 	.col-mob-12 {
 		margin-right: 5%;
 		margin-left: 5%;
+		margin-bottom: 5%;
 		
-		margin-top:  5%;
+		
 		
 	}
 }
 .section {
 	position: relative;
 	background-color: #ebadd6;
-	height: 160px;
+	
 	
 }
 
@@ -95,7 +97,9 @@ h1 {
 	font-size: 100%;
 	margin:10px;
 	margin-top: 50px;
+	margin-bottom: 1px;
 	font-family: helvetica;
+	
 	
 
 }
