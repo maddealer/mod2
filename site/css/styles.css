@@ -1,3 +1,33 @@
 h1 {
-	position: absolute;
+	position: relative;
+	color: blue;
+	margin-left: 45%;
+	display: block;
+}
+.section {
+	background-color: green;
+	width: 30%;
+	height:100px;
+	float: left;
+	margin: 5px;
+
+	
+}
+.logo {
+	position: relative;
+	top: 0px;
+ 	right: 0px;
+	
+	background-color: grey;
+	margin-left: 79%;
+
+	width: 80px;
+	margin-top: 0px;
+	
+	border-style: solid;
+
+	
+
+
+
 }
