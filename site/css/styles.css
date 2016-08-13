@@ -1,3 +1,9 @@
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+
+}
 h1 {
 	position: relative;
 	color: blue;
@@ -5,6 +11,7 @@ h1 {
 	display: block;
 }
 .section {
+	position: relative;
 	background-color: green;
 	width: 30%;
 	height:100px;
@@ -14,15 +21,16 @@ h1 {
 	
 }
 .logo {
-	position: relative;
+	position: absolute;
 	top: 0px;
  	right: 0px;
 	
 	background-color: grey;
-	margin-left: 79%;
+	
 
 	width: 80px;
-	margin-top: 0px;
+	
+
 	
 	border-style: solid;
 
@@ -30,4 +38,9 @@ h1 {
 
 
 
+}
+#chicken {
+	position: absolute;
+	top: 0px;
+	right: 0px;
 }
